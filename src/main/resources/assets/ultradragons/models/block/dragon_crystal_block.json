@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ultradragons:blocks/dragon_crystal_block"
+  }
+}
