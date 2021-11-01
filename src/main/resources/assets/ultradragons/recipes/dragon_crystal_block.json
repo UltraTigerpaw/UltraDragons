@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+        "###",
+        "###"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "ultradragons:dragon_crystal"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "ultradragons:dragon_crystal_block",
+        "count": 1
+    }
+}

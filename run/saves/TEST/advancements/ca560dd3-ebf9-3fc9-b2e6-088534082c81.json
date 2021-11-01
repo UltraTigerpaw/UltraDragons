@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-10-30 14:12:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-10-30 14:12:07 +0400"
+    },
+    "done": true
+  }
+}

@@ -1,5 +1,33 @@
-item.dragon_crystal_shard.name=Dragon Crystal
+item.dragon_crystal.name=Dragon Crystal
+
+item.oxygen_acetylene.name=Oxygen Acetylene
+
+item.almonds.name=Almonds
+
+item.grilled_chicken_drumstick.name=Grilled Chicken Drumstick
+
+item.standard_lightning_staff.name=Standard Lightning Staff
+
+item.helmet_dragon_crystal.name=Dragon Crystal Helmet
+item.chestplate_dragon_crystal.name=Dragon Crystal Chestplate
+item.leggings_dragon_crystal.name=Dragon Crystal Leggings
+item.boots_dragon_crystal.name=Dragon Crystal Boots
+
+item.dragon_crystal_axe.name=Dragon Crystal Axe
+item.dragon_crystal_pickaxe.name=Dragon Crystal Pickaxe
+item.dragon_crystal_sword.name=Dragon Crystal Sword
+item.dragon_crystal_hoe.name=Dragon Crystal Hoe
+item.dragon_crystal_shovel.name=Dragon Crystal Shovel
 
 tile.dragon_crystal_block.name=Dragon Crystal Block
 
-itemGroup.ultradragonstab=UltraTigerpaw's UltraDragons Mod
+tile.dragon_crystal_ore.name=Dragon Crystal Ore
+
+itemGroup.ultradragons_standard_items_tab=UltraDragons Standard Items
+itemGroup.ultradragons_standard_blocks_tab=UltraDragons Standard Blocks
+itemGroup.ultradragons_fuels_tab=UltraDragons Fuels
+itemGroup.ultradragons_food_tab=UltraDragons Food
+itemGroup.ultradragons_ore_tab=UltraDragons Ores
+itemGroup.ultradragons_armor_tab=UltraDragons Armor
+itemGroup.ultradragons_tools_tab=UltraDragons Tools
+itemGroup.ultradragons_staffs_tab=UltraDragons Staffs
